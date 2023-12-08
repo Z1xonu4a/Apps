@@ -1,7 +1,5 @@
 import "./App.css";
 
-console.log("Hello Worold!");
-
 function App() {
   return (
     <div className="App">
